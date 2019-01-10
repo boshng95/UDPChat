@@ -1,0 +1,10 @@
+ File Sending
+ Assignment 2
+ Data Communications & Security
+ COS70007
+ Tutor. Dr Mohammad Rezaeian
+ Lecture. Dr Tanjila Kanij
+ ACK & NACK
+ Error Functionality
+ Checksum
+ UDPServer, Bridge, UDPClient
